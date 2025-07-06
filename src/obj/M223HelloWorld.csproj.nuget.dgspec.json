@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KSH\\Documents\\ZLI\\M223\\m223-hello-world\\M223HelloWorld\\M223HelloWorld.csproj": {}
+    "C:\\Users\\KSH\\Documents\\ZLI\\M223\\m223-hello-world\\src\\M223HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KSH\\Documents\\ZLI\\M223\\m223-hello-world\\M223HelloWorld\\M223HelloWorld.csproj": {
+    "C:\\Users\\KSH\\Documents\\ZLI\\M223\\m223-hello-world\\src\\M223HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KSH\\Documents\\ZLI\\M223\\m223-hello-world\\M223HelloWorld\\M223HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\KSH\\Documents\\ZLI\\M223\\m223-hello-world\\src\\M223HelloWorld.csproj",
         "projectName": "M223HelloWorld",
-        "projectPath": "C:\\Users\\KSH\\Documents\\ZLI\\M223\\m223-hello-world\\M223HelloWorld\\M223HelloWorld.csproj",
+        "projectPath": "C:\\Users\\KSH\\Documents\\ZLI\\M223\\m223-hello-world\\src\\M223HelloWorld.csproj",
         "packagesPath": "C:\\Users\\KSH\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KSH\\Documents\\ZLI\\M223\\m223-hello-world\\M223HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\KSH\\Documents\\ZLI\\M223\\m223-hello-world\\src\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\KSH\\AppData\\Roaming\\NuGet\\NuGet.Config"
